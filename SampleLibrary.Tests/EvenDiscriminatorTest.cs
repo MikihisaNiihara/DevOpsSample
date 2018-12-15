@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace SampleLibrary.Tests
 {
     [TestClass]
-    public class EvenDiscriminatorTest
+    public static class EvenDiscriminatorTest
     {
         [TestMethod]
         [DataRow(2, true)]

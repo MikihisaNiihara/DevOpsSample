@@ -4,8 +4,5 @@ namespace DevOpsSample
 {
     static class Program
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
